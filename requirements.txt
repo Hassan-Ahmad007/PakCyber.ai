@@ -1,0 +1,7 @@
+streamlit==1.61.0
+groq==1.7.0
+faiss-cpu==1.15.0
+sentence-transformers==6.0.1
+pypdf==6.18.0
+requests>=2.32.0,<3.0.0
+numpy>=2.2.0,<3.0.0
