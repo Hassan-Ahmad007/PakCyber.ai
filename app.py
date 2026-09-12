@@ -18,7 +18,7 @@ from sentence_transformers import SentenceTransformer
 # ============================================================
 
 GOOGLE_DRIVE_FILE_ID = "16nmBDF_69B_5IVok23N9iJkEtjB5UjgI"
-GROQ_MODEL = "llama-3.3-70b-versatile"
+GROQ_MODEL = "openai/gpt-oss-120b"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 CHUNK_SIZE = 900
